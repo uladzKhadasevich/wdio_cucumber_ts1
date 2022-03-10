@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "@wdio/cucumber-framework",
+            "webdriverio/async",
+            "expect-webdriverio"
+        ],
+        "target": "ES5",
+        "module":"CommonJS"
+    }
+    
+}
